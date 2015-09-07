@@ -1,10 +1,10 @@
 # FML
-FML specification - a general purpose modeling language that doesn't fucking suck
+FML specification - a general purpose modeling language for people who hate UML
 
 ##Specification
 In FML there are two things: boxes and lines. Boxes may contain anything. 
 
-There is only one relation. Either two boxes are connected by a line, or there have no connection at all.
+There is only one relation. Either two boxes are connected by a line, or they are not.
 
 Thus ends the specification.
 ##Recommended implementation
