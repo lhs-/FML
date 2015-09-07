@@ -14,7 +14,7 @@ Landscape mode diagrams: it should be wider than it is tall
 
 
 ##Reference implementation
-![FML Reference implementation](http://i.imgur.com/uJEHnms.jpg)
+![FML Reference implementation](http://i.imgur.com/mQFSFWW.jpg)
 ##Software implementations of FML
 To be updated
 
